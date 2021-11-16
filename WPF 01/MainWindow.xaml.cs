@@ -20,9 +20,20 @@ namespace WPF_01
     /// </summary>
     public partial class MainWindow : Window
     {
+
+
+
+
+
         public MainWindow()
         {
             InitializeComponent();
+            //Create new grid ,assign content to grid and next create button.(button size)
+            //Create new WrapPanel,create new txt 
+
         }
+
+  
+
     }
 }
