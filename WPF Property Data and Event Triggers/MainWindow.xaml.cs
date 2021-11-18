@@ -13,25 +13,16 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace WPF_01
+namespace WPF_Property_Data_and_Event_Triggers
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
     public partial class MainWindow : Window
     {
-
- 
         public MainWindow()
         {
             InitializeComponent();
-            //Create new grid ,assign content to grid and next create button.(button size)
-            //Create new WrapPanel,create new txt 
-
- 
         }
-
-  
-
-    } 
+    }
 }
