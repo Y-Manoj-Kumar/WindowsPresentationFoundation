@@ -11,12 +11,14 @@
     <!-- 
         XAML  is a EXtensible Application Markup Langage
     -->
-
-    <Grid>
-
-        <Button ToolTip="Fuck off developer" FontWeight="Bold" FontSize="20" Width="100" Height="100" > Cick me </Button>
+    <StackPanel Margin="10">
+        <Label  FontSize="30">UserName:</Label>
+        <TextBox Name="cbName"  Height="30" ></TextBox>
+        <Label FontSize="30">Password:</Label>
+        <PasswordBox  Height="30" PasswordChar="$"></PasswordBox>
+        <Button Height="35" FontSize="25" Click="Button_Click" Margin="15">Login</Button>
         
-    </Grid>
+    </StackPanel>
     
     
 </Window>

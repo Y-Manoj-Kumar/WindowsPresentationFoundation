@@ -6,7 +6,56 @@
         xmlns:local="clr-namespace:WPF_Property_Data_and_Event_Triggers"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
+
+    <StackPanel>
+        <Grid>
+            <TextBlock HorizontalAlignment="Center" Margin="10" FontWeight="UltraBold" FontSize="20" Text="Welcome To WPF">
+                <TextBlock.Style>
+                    <Style TargetType="TextBlock">
+                        <Setter Property="Foreground" Value="SeaGreen"></Setter>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Foreground" Value="CornflowerBlue"></Setter>
+                                <Setter Property="TextDecorations" Value="Baseline"></Setter>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </TextBlock.Style>
+            </TextBlock>
+        </Grid>
+ 
     <Grid>
-        
+        <TextBlock Text="Animation is working perfectly :)" HorizontalAlignment="Center" Margin="10" FontSize="20" Foreground="Red">
+                <TextBlock.Style>
+                    <Style TargetType="TextBlock">
+                        <Style.Triggers>
+                            <EventTrigger RoutedEvent="MouseEnter">
+                                <EventTrigger.Actions>
+                                    <BeginStoryboard>
+                                        <Storyboard>
+                                            <DoubleAnimation Duration="0:0:0.500" Storyboard.TargetProperty="Fontsize" To="60"></DoubleAnimation>
+                                        </Storyboard>
+                                    </BeginStoryboard>
+                                </EventTrigger.Actions>
+                            </EventTrigger>
+                            <EventTrigger RoutedEvent="MouseLeave">
+                                <EventTrigger.Actions>
+                                    <BeginStoryboard>
+                                        <Storyboard>
+                                            <DoubleAnimation Duration="0:0:0.300" Storyboard.TargetProperty="Fontsize" To="30"></DoubleAnimation>
+                                        </Storyboard>
+                                    </BeginStoryboard>
+                                </EventTrigger.Actions>
+                            </EventTrigger>
+                        </Style.Triggers>
+                    </Style>
+                </TextBlock.Style>
+        </TextBlock>
+ 
     </Grid>
+ </StackPanel>
+
+
+
+
 </Window>
