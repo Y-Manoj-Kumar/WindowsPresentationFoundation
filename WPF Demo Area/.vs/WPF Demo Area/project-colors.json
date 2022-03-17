@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "37f86639-00cd-40ad-937b-6fe5d86ebba9": {
+      "ProjectGuid": "37f86639-00cd-40ad-937b-6fe5d86ebba9",
+      "DisplayName": "WPF Demo Area",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

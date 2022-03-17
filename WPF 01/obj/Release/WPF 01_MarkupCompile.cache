@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-D:\GITHUB REPO\WindowsPresentationFoundation\WPF 01\obj\Debug\
+D:\GITHUB REPO\WindowsPresentationFoundation\WPF 01\obj\Release\
 WPF_01
 none
 false
-DEBUG;TRACE
+TRACE
 D:\GITHUB REPO\WindowsPresentationFoundation\WPF 01\App.xaml
 1219584333
 

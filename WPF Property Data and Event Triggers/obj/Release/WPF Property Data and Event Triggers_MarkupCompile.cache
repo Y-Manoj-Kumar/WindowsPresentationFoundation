@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-D:\GITHUB REPO\WindowsPresentationFoundation\WPF Property Data and Event Triggers\obj\Debug\
+D:\GITHUB REPO\WindowsPresentationFoundation\WPF Property Data and Event Triggers\obj\Release\
 WPF_Property_Data_and_Event_Triggers
 none
 false
-DEBUG;TRACE
+TRACE
 D:\GITHUB REPO\WindowsPresentationFoundation\WPF Property Data and Event Triggers\App.xaml
 1219584333
 

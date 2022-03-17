@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>PDF_Converter_By_SyncFusion</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\Convert Icon.png" />
+    <None Remove="Images\Pdf Converter Icon.png" />
+    <None Remove="Images\Selcect file.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Syncfusion.DocToPDFConverter.Wpf" Version="19.4.0.38" />
+    <PackageReference Include="Syncfusion.Pdf.Wpf" Version="19.4.0.38" />
+    <PackageReference Include="Syncfusion.SfSkinManager.WPF" Version="19.4.0.38" />
+    <PackageReference Include="Syncfusion.Shared.WPF" Version="19.4.0.38" />
+    <PackageReference Include="Syncfusion.Themes.FluentLight.WPF" Version="19.4.0.38" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\Convert Icon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Pdf Converter Icon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\Selcect file.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+</Project>

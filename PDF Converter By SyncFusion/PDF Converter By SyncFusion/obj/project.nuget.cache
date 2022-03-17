@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "tvXAClNuc477BBL9UP4dOuu6TnbYzH7/7fW2sx7+oDvJVPP4iofZoj/Np+UzGHsIo5GZnXV478oAxRGAtCc+fg==",
+  "success": true,
+  "projectFilePath": "D:\\GITHUB REPO\\WindowsPresentationFoundation\\PDF Converter By SyncFusion\\PDF Converter By SyncFusion\\PDF Converter By SyncFusion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\syncfusion.compression.base\\19.4.0.38\\syncfusion.compression.base.19.4.0.38.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\syncfusion.docio.wpf\\19.4.0.38\\syncfusion.docio.wpf.19.4.0.38.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\syncfusion.doctopdfconverter.wpf\\19.4.0.38\\syncfusion.doctopdfconverter.wpf.19.4.0.38.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\syncfusion.licensing\\19.4.0.38\\syncfusion.licensing.19.4.0.38.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\syncfusion.officechart.base\\19.4.0.38\\syncfusion.officechart.base.19.4.0.38.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\syncfusion.pdf.wpf\\19.4.0.38\\syncfusion.pdf.wpf.19.4.0.38.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\syncfusion.sfskinmanager.wpf\\19.4.0.38\\syncfusion.sfskinmanager.wpf.19.4.0.38.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\syncfusion.shared.wpf\\19.4.0.38\\syncfusion.shared.wpf.19.4.0.38.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\syncfusion.themes.fluentlight.wpf\\19.4.0.38\\syncfusion.themes.fluentlight.wpf.19.4.0.38.nupkg.sha512"
+  ],
+  "logs": []
+}

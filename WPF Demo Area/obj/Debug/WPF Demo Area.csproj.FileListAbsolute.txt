@@ -1,0 +1,16 @@
+D:\GITHUB REPO\WindowsPresentationFoundation\WPF Demo Area\bin\Debug\WPF Demo Area.exe.config
+D:\GITHUB REPO\WindowsPresentationFoundation\WPF Demo Area\bin\Debug\WPF Demo Area.exe
+D:\GITHUB REPO\WindowsPresentationFoundation\WPF Demo Area\bin\Debug\WPF Demo Area.pdb
+D:\GITHUB REPO\WindowsPresentationFoundation\WPF Demo Area\obj\Debug\WPF Demo Area.csproj.AssemblyReference.cache
+D:\GITHUB REPO\WindowsPresentationFoundation\WPF Demo Area\obj\Debug\WPF Demo Area.csproj.SuggestedBindingRedirects.cache
+D:\GITHUB REPO\WindowsPresentationFoundation\WPF Demo Area\obj\Debug\MainWindow.g.cs
+D:\GITHUB REPO\WindowsPresentationFoundation\WPF Demo Area\obj\Debug\App.g.cs
+D:\GITHUB REPO\WindowsPresentationFoundation\WPF Demo Area\obj\Debug\WPF Demo Area_MarkupCompile.cache
+D:\GITHUB REPO\WindowsPresentationFoundation\WPF Demo Area\obj\Debug\WPF Demo Area_MarkupCompile.lref
+D:\GITHUB REPO\WindowsPresentationFoundation\WPF Demo Area\obj\Debug\MainWindow.baml
+D:\GITHUB REPO\WindowsPresentationFoundation\WPF Demo Area\obj\Debug\WPF Demo Area.g.resources
+D:\GITHUB REPO\WindowsPresentationFoundation\WPF Demo Area\obj\Debug\WPF_Demo_Area.Properties.Resources.resources
+D:\GITHUB REPO\WindowsPresentationFoundation\WPF Demo Area\obj\Debug\WPF Demo Area.csproj.GenerateResource.cache
+D:\GITHUB REPO\WindowsPresentationFoundation\WPF Demo Area\obj\Debug\WPF Demo Area.csproj.CoreCompileInputs.cache
+D:\GITHUB REPO\WindowsPresentationFoundation\WPF Demo Area\obj\Debug\WPF Demo Area.exe
+D:\GITHUB REPO\WindowsPresentationFoundation\WPF Demo Area\obj\Debug\WPF Demo Area.pdb

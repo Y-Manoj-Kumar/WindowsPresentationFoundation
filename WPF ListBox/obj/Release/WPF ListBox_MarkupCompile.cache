@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-D:\GITHUB REPO\WindowsPresentationFoundation\WPF ListBox\obj\Debug\
+D:\GITHUB REPO\WindowsPresentationFoundation\WPF ListBox\obj\Release\
 WPF_ListBox
 none
 false
-DEBUG;TRACE
+TRACE
 D:\GITHUB REPO\WindowsPresentationFoundation\WPF ListBox\App.xaml
 1219584333
 
